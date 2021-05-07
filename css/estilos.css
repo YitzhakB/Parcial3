@@ -1,0 +1,163 @@
+#titulo{
+ background-color: #70b64c;
+}
+
+h1 {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 900;
+ font-size: 3.5rem;
+ line-height: 1.5;
+ color: #FFFF;
+}
+
+#titulo{
+ background-color: #70b64c;
+}
+
+body{
+ font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+ font-family: 'Ubuntu', sans-serif;
+ font-size: 1 rem;
+ font-weight: bold;
+}
+
+.navbar {
+ padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+ padding: 0 18px;
+}
+.nav-link {
+ font-size: 1.2rem;
+ font-family: 'Montserrat-Light', sans-serif;
+ font-weight: 100;
+}
+
+.download-button {
+ margin: 5% 3% 5% 0;
+}
+
+.container-fluid{
+ padding: 3% 15% 7%;
+}
+
+#caracteristicas {
+ padding: 7% 15%;
+}
+
+#caracteristicas {
+ padding: 7% 15%;
+ background-color: #fff;
+ position: relative;
+}
+
+.caja-caracteristica{
+ text-align: center;
+ padding: 5%;
+}
+
+h1 {
+ font-family: 'Montserrat';
+ font-weight: 900;
+ font-size: 3.0rem;
+ line-height: 1.5;
+}
+
+h3 {
+ font-family: 'Montserrat';
+ font-size: 1.5rem;
+ font-weight: bold;
+}
+
+p{
+ color: #8f8f8f;
+}
+
+.icon {
+ color: #7bc955;
+ margin-bottom: 1rem;
+} 
+
+.icon:hover {
+ color: #70b64c;
+}
+
+#testimonios {
+ padding: 7% 15%;
+ text-align: center;
+ background-color: #70b64c;
+ color: #fff;
+}
+
+.img-testimonio{
+ width: 10%;
+ border-radius: 100%;
+ margin: 20px;
+}
+
+#precios {
+ padding: 100px;
+ text-align: center;
+}
+
+#cta{
+ background-color: #70b64c;
+ color: #fff;
+ padding: 7% 15%;
+ text-align: center;
+}
+
+.encabezado-cta{
+ font-family: 'Montserrat';
+ font-weight: 900;
+ font-size: 3.5rem;
+ line-height: 1.5;
+}
+
+.carousel-item{
+ padding: 7% 15%;
+}
+
+.precios-col {
+ padding: 3% 2%;
+}
+	
+ .title-image {
+ width: 60%;
+ position: absolute;
+ right: 30%
+ }
+
+@media (max-width: 1028px) {
+ #titulo{
+ text-align: center;
+ }
+
+ .title-image {
+ position: static;
+ transform: rotate(0);
+ }
+}
+	.social-icon{
+ margin: 20px 10px;
+}
+	#footer {
+ padding: 7% 15%;
+ text-align: center;
+}
+
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 3.5rem;
+	line-height: 1.5;
+	color: rgb(5, 5, 5);
+   }
+
+
+
